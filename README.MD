@@ -8,7 +8,7 @@
 ### **Options de Lancement CS2**
 Utilisez ces paramètres pour optimiser le lancement du jeu :
 ```bash
--console -freq 165 -full -h 960 -high -language english -noforcemaccel -noforcempars -nojoy -novid -threads 12 -w 1280 +exec autoexec.cfg
+-high -noforcemaccel -noforcempars -nojoy -novid -threads 12 +exec autoexec.cfg
 ```
 
 ---

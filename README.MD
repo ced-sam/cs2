@@ -60,8 +60,8 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\GameDVR"
 - **Main Menu Ambience Volume** 0
 - **Audio Device:** DEFAULT DEVICE
 - **EQ Profile:** CRISP
-- **L/R Isolation:** 0%
-- **Perspective Correction:** YES
+- **L/R Isolation:** 50%
+- **Perspective Correction:** NO
 - **Play Audio When Game in Background:** YES
 
 ### **Paramètres d’Affichage**

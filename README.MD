@@ -65,7 +65,7 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\GameDVR"
 - **Play Audio When Game in Background:** YES
 
 ### **Paramètres d’Affichage**
-- **Brightness** : 100
+- **Brightness** : 110
 
 | Paramètre | Valeur |
 |-----------|--------|

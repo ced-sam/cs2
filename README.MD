@@ -73,8 +73,8 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\GameDVR"
 | V-Sync | **Désactivé** |
 | NVIDIA G-Sync | **Désactivé** |
 | NVIDIA Reflex Low Latency | **Activé + BOOST** |
-| Maximum FPS In Game | 400
-| Maximum FPS In Menus | 200
+| Maximum FPS In Game | 0
+| Maximum FPS In Menus | 0
 | Multisampling Anti-Aliasing Mode | **4X MSAA**
 | Global Shadow Quality | **LOW**
 | Dynamic Shadows | **ALL**

@@ -8,7 +8,7 @@
 ### **Options de Lancement CS2**
 Utilisez ces paramètres pour optimiser le lancement du jeu :
 ```bash
--high -nojoy -novid -threads 17 +exec autoexec.cfg
+-high -threads 16 +exec autoexec.cfg
 ```
 
 ---
@@ -65,7 +65,7 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\GameDVR"
 - **Play Audio When Game in Background:** YES
 
 ### **Paramètres d’Affichage**
-- **Brightness** : 110
+- **Brightness** : 100
 
 | Paramètre | Valeur |
 |-----------|--------|

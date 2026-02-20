@@ -1,7 +1,6 @@
-### **Serveurs DM CS2**
-- [Pracc](https://pracc.com/play)
+### **Liens**
 - [Cybershoke](https://cybershoke.net/cs2)
-- [Warmup Server](https://www.warmupserver.net/servers_filters.php)
+- [CSFloat](https://csfloat.com/)
 
 ## **Optimisation des Performances – CS2 / Windows 11**
 

@@ -7,7 +7,7 @@
 ### **Options de Lancement CS2**
 Utilisez ces paramètres pour optimiser le lancement du jeu :
 ```bash
--threads 16 -tank_WorkerThreadCount 16 +exec autoexec.cfg
++exec autoexec.cfg
 ```
 
 ---

@@ -52,7 +52,6 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\GameDVR"
 
 ### **Emplacement des Fichiers**
 - **Autoexec** : `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
-- **Autres fichiers** : `C:\Program Files (x86)\Steam\userdata\*\730\local\cfg`
 
 ### Audio Settings
 - **Master Volume** 100
@@ -62,27 +61,3 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\GameDVR"
 - **L/R Isolation:** 50%
 - **Perspective Correction:** NO
 - **Play Audio When Game in Background:** YES
-
-### **Paramètres d’Affichage**
-- **Brightness** : 100
-
-| Paramètre | Valeur |
-|-----------|--------|
-| Boost Player Contrast | **Activé** |
-| V-Sync | **Désactivé** |
-| NVIDIA G-Sync | **Désactivé** |
-| NVIDIA Reflex Low Latency | **Activé + BOOST** |
-| Maximum FPS In Game | 0
-| Maximum FPS In Menus | 0
-| Multisampling Anti-Aliasing Mode | **4X MSAA**
-| Global Shadow Quality | **LOW**
-| Dynamic Shadows | **ALL**
-| Model / Texture Detail | **HIGH**
-| Texture Filtering Mode | **ANISOTROPIC 2X**
-| Shader Detail | **LOW**
-| Particle Detail | **LOW**
-| Ambient Occlusion | **Désactivé**
-| High Dynamic Range | **PERFORMANCE**
-| FidelityFX Super Resolution | **Désactivé (HIGHEST QUALITY)**
-
----
